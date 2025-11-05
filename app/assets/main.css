@@ -3,12 +3,12 @@
 
 
 @font-face {
-    font-family: 'Yangjin';
-    src: url('https://cdn.jsdelivr.net/gh/supernovice-lab/font@0.9/yangjin.woff') format('woff');
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css');
     font-weight: normal;
     font-display: swap;
 }
 
 @theme {
-    --font-sans: 'Yangjin', sans-serif;
+    --font-sans: 'Pretendard', sans-serif;
 }
